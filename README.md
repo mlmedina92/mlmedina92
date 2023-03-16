@@ -11,23 +11,16 @@ const perfil = [
     "Capacidad de trabajo en equipo, habilidades de comunicación y resolución de problemas.",
     
 ];
-
-
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-
-
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/lis-medina/"><img src="https://img.shields.io/badge/-Lis%20Medina-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:lm30540@gmail.com"><img src="https://img.shields.io/badge/-lm30540@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
-</p>
-
-
 ```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lis Medina" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlmedina92&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="Lis Medina" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mlmedina92&theme=dark" alt="Lis Medina" /></p>
+
+<h4 align="center">Gracias por pasar por aquí 😁</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{mlmedina92}/count.svg" alt="Lis Medina :: Visitor's Count" /></p>
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -43,14 +36,20 @@ const perfil = [
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lis Medina" /></p>
-<br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlmedina92&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="Lis Medina" /></p>
-<br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mlmedina92&theme=dark" alt="Lis Medina" /></p>
-<br />
-<h4 align="center">Gracias por pasar por aquí 😁</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{mlmedina92}/count.svg" alt="Lis Medina :: Visitor's Count" /></p>
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
+
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/lis-medina/"><img src="https://img.shields.io/badge/-Lis%20Medina-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:lm30540@gmail.com"><img src="https://img.shields.io/badge/-lm30540@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
+</p>
+
+
+
+
+l
