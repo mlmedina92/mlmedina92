@@ -5,12 +5,11 @@
 
 ```javascript
 const perfil = [
-    "Desarrolladora junior apasionada por la tecnología y el desarrollo de software",
+    "Desarrolladora junior apasionada por la tecnología.",
     "Habilidades técnicas en HTML, CSS, JavaScript, SASS, Wordpress, NodeJS y frameworks como React y Angular.",
-    "Formación académica en Coder House, con proyectos y clientes reales".
-",
-    "Habilidades blandas, como capacidad de trabajo en equipo, habilidades de comunicación y resolución de problemas.",
-    " Me gusta trabajar en entornos colaborativos y aprender de los demás para seguir creciendo como profesional."
+    "Formación académica en Coder House, con proyectos y clientes reales.",
+    "Capacidad de trabajo en equipo, habilidades de comunicación y resolución de problemas.",
+    " Me gusta trabajar en entornos colaborativos y aprender de los demás."
 ];
 ```
 
@@ -18,7 +17,8 @@ const perfil = [
 🌱 &nbsp;Objetivo: Frontend\
 ✍️ &nbsp;Entusiasta de AI.\
 ✉️ &nbsp;Podés mandarme un mail a lm30540@hotmail.com!
-
+ <br />
+ <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lis Medina" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlmedina92alexmarinmendez&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="Lis Medina" /></p>
