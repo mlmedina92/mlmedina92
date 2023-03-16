@@ -12,13 +12,6 @@ const perfil = [
     
 ];
 ```
-
-💡 &nbsp;Me gusta trabajar en entornos colaborativos y aprender de los demás.\
-🌱 &nbsp;Objetivo: Frontend\
-✍️ &nbsp;Entusiasta de AI.\
-✉️ &nbsp;Podés mandarme un mail a lm30540@hotmail.com!
- <br />
- <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lis Medina" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlmedina92&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="Lis Medina" /></p>
@@ -28,7 +21,6 @@ const perfil = [
 <h4 align="center">Gracias por pasar por aquí 😁</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mlmedina92}/count.svg" alt="Lis Medina :: Visitor's Count" /></p>
-
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -41,18 +33,14 @@ const perfil = [
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)&nbsp;
 
 
 
-## 🤝🏻 &nbsp;Connect with Me
+
 
 <p align="center">
 
@@ -61,6 +49,6 @@ const perfil = [
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 </p>
 
-## ⚙️ &nbsp;GitHub Analytics
+
 
 
