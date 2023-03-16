@@ -7,7 +7,7 @@
 const perfil = [
     "Desarrolladora junior apasionada por la tecnología.",
     "Capacidad de trabajo en equipo, habilidades de comunicación y resolución de problemas."    
-];
+    ];
 ```
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lis Medina" /></p>
 <br />
@@ -36,8 +36,7 @@ const perfil = [
 
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/lis-medina/"><img src="https://img.shields.io/badge/-Lis%20Medina-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:lm30540@gmail.com"><img src="https://img.shields.io/badge/-lm30540@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
+    <a href="https://www.linkedin.com/in/lis-medina/"><img src="https://img.shields.io/badge/-Lis%20Medina-0077B5?      style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:lm30540@gmail.com"><img src="https://img.shields.io/badge/-lm30540@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 </p>
