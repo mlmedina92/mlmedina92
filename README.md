@@ -9,11 +9,11 @@ const perfil = [
     "Habilidades técnicas en HTML, CSS, JavaScript, SASS, Wordpress, NodeJS y frameworks como React y Angular.",
     "Formación académica en Coder House, con proyectos y clientes reales.",
     "Capacidad de trabajo en equipo, habilidades de comunicación y resolución de problemas.",
-    " Me gusta trabajar en entornos colaborativos y aprender de los demás."
+    
 ];
 ```
 
-💡 &nbsp;Me gusta resolver problemas y crear nuevas cosas programando.\
+💡 &nbsp;Me gusta trabajar en entornos colaborativos y aprender de los demás.\
 🌱 &nbsp;Objetivo: Frontend\
 ✍️ &nbsp;Entusiasta de AI.\
 ✉️ &nbsp;Podés mandarme un mail a lm30540@hotmail.com!
