@@ -6,25 +6,21 @@
 ```javascript
 const perfil = [
     "Desarrolladora junior apasionada por la tecnología.",
-    "Habilidades técnicas en HTML, CSS, JavaScript, SASS, Wordpress, NodeJS y frameworks como React y Angular.",
-    "Formación académica en Coder House, con proyectos y clientes reales.",
-    "Capacidad de trabajo en equipo, habilidades de comunicación y resolución de problemas.",
-    
+    "Capacidad de trabajo en equipo, habilidades de comunicación y resolución de problemas."    
 ];
 ```
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lis Medina" /></p>
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlmedina92&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="Lis Medina" /></p>
-
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mlmedina92&theme=dark" alt="Lis Medina" /></p>
-
+<br />
 <h4 align="center">Gracias por pasar por aquí 😁</h4>
-
+<br />
 <p align="center"><img src="https://profile-counter.glitch.me/{mlmedina92}/count.svg" alt="Lis Medina :: Visitor's Count" /></p>
 
-
 ## 🛠 &nbsp;Tech Stack
-
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -39,17 +35,9 @@ const perfil = [
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-
-
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/lis-medina/"><img src="https://img.shields.io/badge/-Lis%20Medina-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lm30540@gmail.com"><img src="https://img.shields.io/badge/-lm30540@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 </p>
-
-
-
-
-l
