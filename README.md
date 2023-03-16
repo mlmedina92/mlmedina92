@@ -21,7 +21,7 @@ const perfil = [
  <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lis Medina" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlmedina92alexmarinmendez&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="Lis Medina" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlmedina92&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="Lis Medina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mlmedina92&theme=dark" alt="Lis Medina" /></p>
 
