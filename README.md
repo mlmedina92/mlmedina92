@@ -11,16 +11,7 @@ const perfil = [
     "Capacidad de trabajo en equipo, habilidades de comunicación y resolución de problemas.",
     
 ];
-```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lis Medina" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlmedina92&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="Lis Medina" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mlmedina92&theme=dark" alt="Lis Medina" /></p>
-
-<h4 align="center">Gracias por pasar por aquí 😁</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{mlmedina92}/count.svg" alt="Lis Medina :: Visitor's Count" /></p>
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -50,6 +41,15 @@ const perfil = [
 </p>
 
 
+```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lis Medina" /></p>
+<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlmedina92&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="Lis Medina" /></p>
+<br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mlmedina92&theme=dark" alt="Lis Medina" /></p>
+<br />
+<h4 align="center">Gracias por pasar por aquí 😁</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{mlmedina92}/count.svg" alt="Lis Medina :: Visitor's Count" /></p>
 
 
-l
