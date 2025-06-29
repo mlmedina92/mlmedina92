@@ -1,11 +1,11 @@
 <h1 align="center">Hola Mundo! 👋<br />Soy Lis Medina</h1>
-<h2 align="center">Full Stack Javascript Developer<br/>Junior👨‍🎓</h2>
+<h2 align="center">Tecnicatura Universitaria en Desarrollo de aplicaciones<br/>👨‍🎓</h2>
 <h3 align="center">🎯 Busco ser parte de un equipo de trabajo ágil para solucionar problemas empresariales desde el FRONT y/o desde el BACK 🚀</h3>
 &nbsp;<br />
 
 ```javascript
 const perfil = [
-    "Desarrolladora junior apasionada por la tecnología.",
+    "Desarrolladora apasionada por la aprender.",
     "Capacidad de trabajo en equipo, habilidades de comunicación y resolución de problemas."    
     ];
 ```
