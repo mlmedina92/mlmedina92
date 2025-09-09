@@ -20,18 +20,19 @@ const perfil = {
 
 <hr />
 
-<h2 align="center">📊 Estadísticas</h2>
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top lenguajes" />
-</p>
-<br />
-<p align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top lenguajes" />
+</td>
+<td>
 <img src="https://github-readme-stats.vercel.app/api?username=mlmedina92&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="GitHub stats" />
-</p>
-<br />
-<p align="center">
+<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlmedina92&theme=dark" alt="GitHub streak" />
-</p>
+</td>
+</tr>
+</table>
+
 
 <hr />
 
@@ -64,15 +65,18 @@ const perfil = {
 
 <h2 align="center">📬 Contacto</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/lis-medina/">
-<img src="https://img.shields.io/badge/-Lis%20Medina-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:lm30540@gmail.com">
-<img src="https://img.shields.io/badge/-lm30540@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="https://linkedin.com/in/lis-medina/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-mlmedina-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br /><br />
+  <a href="mailto:lm30540@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lm30540@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
 <hr />
+
+
+
 
 <h4 align="center">Gracias por pasar por aquí 😁</h4>
 <h2 align="center">🚀 ¿Te gustaría que colabore en tu proyecto?</h2>
