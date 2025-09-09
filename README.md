@@ -1,42 +1,84 @@
-<h1 align="center">Hola Mundo! 👋<br />Soy Lis Medina</h1>
-<h2 align="center">Tecnicatura Universitaria en Desarrollo de aplicaciones<br/>👨‍🎓</h2>
-<h3 align="center">🎯 Busco ser parte de un equipo de trabajo ágil para solucionar problemas empresariales desde el FRONT y/o desde el BACK 🚀</h3>
-&nbsp;<br />
-
-```javascript
-const perfil = [
-    "Desarrolladora apasionada por la aprender.",
-    "Capacidad de trabajo en equipo, habilidades de comunicación y resolución de problemas."    
-    ];
-```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Lis Medina" /></p>
+<h1 align="center">Hola! 👋<br />Soy Lis Medina</h1>
+<h2 align="center">Desarrolladora Full Stack | Tecnicatura Universitaria en Desarrollo de Aplicaciones</h2>
+<h3 align="center">🎯 Apasionada por crear soluciones desde el FRONT y el BACK, enfocada en mejorar la experiencia del usuario y optimizar procesos 🚀</h3>
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mlmedina92&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="Lis Medina" /></p>
-<br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mlmedina92&theme=dark" alt="Lis Medina" /></p>
-<br />
-<h4 align="center">Gracias por pasar por aquí 😁</h4>
-<br />
-<p align="center"><img src="https://profile-counter.glitch.me/{mlmedina92}/count.svg" alt="Lis Medina :: Visitor's Count" /></p>
+<pre>
+<code class="language-javascript">
+const perfil = {
+    pasion: "Crear soluciones eficientes y escalables",
+    habilidades: [
+        "Trabajo en equipo",
+        "Comunicación efectiva",
+        "Resolución de problemas",
+        "Adaptación a nuevas tecnologías"
+    ],
+    enfoque: "Aprendizaje continuo y desarrollo profesional"
+};
+</code>
+</pre>
 
-## 🛠 &nbsp;Tech Stack
+<hr />
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-
+<h2 align="center">📊 Estadísticas</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/lis-medina/"><img src="https://img.shields.io/badge/-Lis%20Medina-0077B5?      style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:lm30540@gmail.com"><img src="https://img.shields.io/badge/-lm30540@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlmedina92&show_icons=true&theme=dark&locale=es&layout=compact" alt="Top lenguajes" />
 </p>
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mlmedina92&show_icons=true&theme=highcontrast&title_color=cfd147&locale=es" alt="GitHub stats" />
+</p>
+<br />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mlmedina92&theme=dark" alt="GitHub streak" />
+</p>
+
+<hr />
+
+<h2 align="center">🛠 Habilidades Técnicas</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML" />
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396" alt="Java" />
+<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4" alt="PHP" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/-Pensamiento%20Lógico-05122A?style=flat&logo=brain&logoColor=F7DF1E" alt="Pensamiento Lógico" />
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" />
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
+</p>
+
+<hr/>
+
+<h2 align="center">💡 Soft Skills</h2>
+<ul>
+<li>Comunicación efectiva</li>
+<li>Trabajo en equipo</li>
+<li>Resolución de problemas</li>
+<li>Organización y planificación</li>
+<li>Aprendizaje rápido y adaptabilidad</li>
+</ul>
+
+<hr />
+
+<h2 align="center">📬 Contacto</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/lis-medina/">
+<img src="https://img.shields.io/badge/-Lis%20Medina-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:lm30540@gmail.com">
+<img src="https://img.shields.io/badge/-lm30540@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email" />
+</a>
+</p>
+
+<hr />
+
+<h4 align="center">Gracias por pasar por aquí 😁</h4>
+<h2 align="center">🚀 ¿Te gustaría que colabore en tu proyecto?</h2>
+<p align="center">
+  <a href="mailto:lm30540@gmail.com">
+    <img src="https://img.shields.io/badge/-Contáctame-008CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+  </a>
+</p>
+
